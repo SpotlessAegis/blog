@@ -1,4 +1,4 @@
 # blog
 A blog. I guess.
 
-View the website at [currently no website link, will be updated.]
+View the website at https://spotlessaegis.github.io/blog/
